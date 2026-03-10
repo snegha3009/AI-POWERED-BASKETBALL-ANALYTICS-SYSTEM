@@ -1,4 +1,5 @@
-ON TRAINING .pt files for the following is obatined:
+CREATE A SEPERATE FOLDER models/
+SO ON TRAINING .pt files for the following is obatined:
 
 1. ball_detector_model.pt
 2. court_keypoint_detector.pt
