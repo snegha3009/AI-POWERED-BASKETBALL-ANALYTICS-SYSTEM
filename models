@@ -1,0 +1,5 @@
+ON TRAINING .pt files for the following is obatined:
+
+1. ball_detector_model.pt
+2. court_keypoint_detector.pt
+3. player_detector.pt
