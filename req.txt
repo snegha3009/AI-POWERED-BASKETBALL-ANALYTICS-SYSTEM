@@ -1,0 +1,16 @@
+numpy
+opencv-python
+opencv-python-headless
+pandas
+Pillow
+supervision
+torch
+transformers
+ultralytics
+streamlit
+scikit-learn
+matplotlib
+json
+os
+networkx
+collections
